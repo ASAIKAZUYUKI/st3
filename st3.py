@@ -42,3 +42,4 @@ if c2:
     stocks.append(2)
 st.line_chart(df[stocks])
 st.dataframe(df[stocks])
+
