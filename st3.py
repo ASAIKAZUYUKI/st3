@@ -9,8 +9,8 @@ import pandas as pd
 #import matplotlib.pyplot as plt
 #matplotlib inline
 
-import sklearn #機械学習のライブラリ
-from sklearn.decomposition import PCA #主成分分析
+#import sklearn #機械学習のライブラリ
+#from sklearn.decomposition import PCA #主成分分析
 
 import csv
 import os
