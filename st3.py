@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 
 #図やグラフを図示するためのライブラリをインポート
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 #matplotlib inline
 
 import sklearn #機械学習のライブラリ
