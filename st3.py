@@ -13,8 +13,7 @@ import pandas as pd
 #from sklearn.decomposition import PCA #主成分分析
 
 # githubの練習
-# branch
-
+# branch練習
 
 import csv
 import os
