@@ -12,6 +12,8 @@ import pandas as pd
 #import sklearn #機械学習のライブラリ
 #from sklearn.decomposition import PCA #主成分分析
 
+# githubの練習
+
 import csv
 import os
 import math
